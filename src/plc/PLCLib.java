@@ -1,4 +1,4 @@
-package plc.core;
+package plc;
 
 import arc.util.*;
 import mindustry.mod.*;
