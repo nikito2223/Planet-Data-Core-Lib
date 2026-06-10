@@ -1,0 +1,7 @@
+displayName: "Planet Data Core Lib"
+name: "planet-data-core"
+author: "rufik"
+main: "plc.core.PLCLib"
+version: 1.0
+minGameVersion: 158.1
+java: true
